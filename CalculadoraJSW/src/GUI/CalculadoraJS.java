@@ -82,7 +82,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnIgual.setText("=");
         btnIgual.setFocusPainted(false);
         btnIgual.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnIgual.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnIgual.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnIgual.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnIgual.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -97,7 +97,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn9.setText("9");
         btn9.setFocusPainted(false);
         btn9.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn9.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn9.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn9.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -112,7 +112,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnPotencia.setText("^");
         btnPotencia.setFocusPainted(false);
         btnPotencia.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnPotencia.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnPotencia.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnPotencia.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnPotencia.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -127,7 +127,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnPorcentaje.setText("%");
         btnPorcentaje.setFocusPainted(false);
         btnPorcentaje.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnPorcentaje.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnPorcentaje.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnPorcentaje.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnPorcentaje.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -142,7 +142,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnDivision.setText("÷");
         btnDivision.setFocusPainted(false);
         btnDivision.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnDivision.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnDivision.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnDivision.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnDivision.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -157,7 +157,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnMultiplicacion.setText("×");
         btnMultiplicacion.setFocusPainted(false);
         btnMultiplicacion.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnMultiplicacion.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnMultiplicacion.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnMultiplicacion.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnMultiplicacion.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -172,7 +172,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnResta.setText("-");
         btnResta.setFocusPainted(false);
         btnResta.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnResta.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnResta.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnResta.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnResta.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -187,7 +187,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnSuma.setText("+");
         btnSuma.setFocusPainted(false);
         btnSuma.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnSuma.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnSuma.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnSuma.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnSuma.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -202,7 +202,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnEliminar.setText("C");
         btnEliminar.setFocusPainted(false);
         btnEliminar.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnEliminar.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnEliminar.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnEliminar.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnEliminar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -217,7 +217,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn7.setText("7");
         btn7.setFocusPainted(false);
         btn7.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn7.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn7.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn7.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -232,7 +232,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn8.setText("8");
         btn8.setFocusPainted(false);
         btn8.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn8.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn8.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn8.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -247,7 +247,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn6.setText("6");
         btn6.setFocusPainted(false);
         btn6.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn6.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn6.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn6.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -262,7 +262,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn4.setText("4");
         btn4.setFocusPainted(false);
         btn4.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn4.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn4.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn4.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -277,7 +277,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn5.setText("5");
         btn5.setFocusPainted(false);
         btn5.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn5.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn5.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn5.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -292,7 +292,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn3.setText("3");
         btn3.setFocusPainted(false);
         btn3.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn3.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn3.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn3.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -307,7 +307,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn1.setText("1");
         btn1.setFocusPainted(false);
         btn1.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn1.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn1.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn1.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -322,7 +322,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn2.setText("2");
         btn2.setFocusPainted(false);
         btn2.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn2.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn2.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn2.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -337,7 +337,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btn0.setText("0");
         btn0.setFocusPainted(false);
         btn0.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btn0.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btn0.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btn0.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btn0.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -352,7 +352,7 @@ public class CalculadoraJS extends javax.swing.JFrame {
         btnDecimal.setText(".");
         btnDecimal.setFocusPainted(false);
         btnDecimal.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        btnDecimal.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/btn1.png"))); // NOI18N
+        btnDecimal.setPressedIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonDefectoSimbolos.jpg"))); // NOI18N
         btnDecimal.setRolloverIcon(new javax.swing.ImageIcon(getClass().getResource("/images/botonPresionadoOperaciones.jpg"))); // NOI18N
         btnDecimal.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
